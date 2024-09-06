@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋, my name is Babageldi
-#### I am front-end developer
+#### I am web developer
 
 - 🔭 I’m currently working on Portal
 - 🌱 I’m currently learning and using: 
