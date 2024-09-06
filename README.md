@@ -15,7 +15,6 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux-Toolkit](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=whit)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![Tanstack-React-Query](https://img.shields.io/badge/Tanstack%20React%20Query-%23FF4154.svg?style=for-the-badge&logo=react%20query&logoColor=white)
 
 
 
